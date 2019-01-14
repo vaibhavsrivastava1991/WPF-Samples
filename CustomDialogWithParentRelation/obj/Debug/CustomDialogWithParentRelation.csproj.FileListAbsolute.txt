@@ -1,0 +1,16 @@
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\bin\Debug\CustomDialogWithParentRelation.exe.config
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\bin\Debug\CustomDialogWithParentRelation.exe
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\bin\Debug\CustomDialogWithParentRelation.pdb
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.csprojResolveAssemblyReference.cache
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomPopup.g.cs
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\MainWindow.g.cs
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\App.g.cs
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation_MarkupCompile.cache
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation_MarkupCompile.lref
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomPopup.baml
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\MainWindow.baml
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.g.resources
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.Properties.Resources.resources
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.csproj.GenerateResource.Cache
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.exe
+c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.pdb
