@@ -14,3 +14,6 @@ c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParen
 c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.csproj.GenerateResource.Cache
 c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.exe
 c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.pdb
+D:\WPF-Samples\WPF-Samples\CustomDialogWithParentRelation\bin\Debug\CustomDialogWithParentRelation.exe.config
+D:\WPF-Samples\WPF-Samples\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.exe
+D:\WPF-Samples\WPF-Samples\CustomDialogWithParentRelation\obj\Debug\CustomDialogWithParentRelation.pdb

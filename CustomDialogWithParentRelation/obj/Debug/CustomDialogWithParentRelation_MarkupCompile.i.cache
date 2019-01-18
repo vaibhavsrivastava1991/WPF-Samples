@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\obj\Debug\
+D:\WPF-Samples\WPF-Samples\CustomDialogWithParentRelation\obj\Debug\
 CustomDialogWithParentRelation
 none
 false
 DEBUG;TRACE
-c:\users\vsrivastava\documents\visual studio 2015\Projects\CustomDialogWithParentRelation\CustomDialogWithParentRelation\App.xaml
+D:\WPF-Samples\WPF-Samples\CustomDialogWithParentRelation\App.xaml
 21872579310
 
 11577138716
 13738642453
 CustomPopup.xaml;MainWindow.xaml;
 
-False
+True
 
